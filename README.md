@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data for Non-strategic Econometrics (for Initial Play)
 
 Datasets used in the paper [Non-strategic Econometrics (for Initial Play)](https://arxiv.org/abs/2208.06521) at AAMAS 2023. 
@@ -23,3 +24,7 @@ Subjects played across 2 conditions:
 	Participants played all games in the same order in the ordered condition, whereas the games were presented in a random order to participants in the randomized condition
 ## Game indices
 The `gameIndices.pkl` file gives the order the games were presented to each subject, with each row index corresponding to the subject in the file storing the player actions. For the ordered conditions, the gameIndices just contain an array containing the numbers 0-23 in order.
+=======
+# dataWorks
+all the works related to the data
+>>>>>>> 1c640675ffeb8aff48b1143595e9d1b1e5e5d567
